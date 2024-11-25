@@ -1,7 +1,7 @@
-#### 👨🏻‍💻  About Me
+### 🐧  About Me
 🎓   Studying Computer Science at Ewha Womans University
 
-#### 🛠  Tech I've used
+### 🛠  Tech I've used
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=Django&logoColor=white)
@@ -27,7 +27,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=ffffff) 
 
-#### 📫 How to reach me
+### 📫 How to reach me
 [![Gmail Badge](https://img.shields.io/badge/sforseohn@ewha.ac.kr-23AED4?style=flat&logo=Gmail&logoColor=white)](mailto:sforseohn@ewha.ac.kr)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsforseohn&count_bg=%23939393&title_bg=%23AED4FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
