@@ -1,31 +1,33 @@
-### Hi there ✨
+#### 👨🏻‍💻  About Me
+🎓   Studying Computer Science at Ewha Womans University
+
+#### 🛠  Tech I've used
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=Django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%6DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) 
+
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)   
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-%230377CC.svg?style=flat-square&logo=Elasticsearch&logoColor=white)   
+
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=ffffff) 
+
+#### 📫 How to reach me
+[![Gmail Badge](https://img.shields.io/badge/sforseohn@ewha.ac.kr-23AED4?style=flat&logo=Gmail&logoColor=white)](mailto:sforseohn@ewha.ac.kr)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsforseohn&count_bg=%23939393&title_bg=%23AED4FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<!--
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sforseohn)](https://solved.ac/sforseohn/)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sforseohn&theme=transparent&exclude=CSS)
-
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-
-
--->
-
-<!--
-**sforseohn/sforseohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
